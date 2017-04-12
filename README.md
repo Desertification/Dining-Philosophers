@@ -1,3 +1,3 @@
 # run instructions
 
-`>java Main`
+`>java Gathering`
